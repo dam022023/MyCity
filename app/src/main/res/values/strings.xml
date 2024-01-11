@@ -1,0 +1,84 @@
+<resources>
+    <string name="back_button">Back</string>
+    <string name="app_name">MyCity</string>
+    <string name="city_name">Madrid</string>
+    <string name="to_do_city">Qué hacer en Madrid</string>
+    <string name="activity_type1">Museos</string>
+    <string name="activity_type2">Teatros</string>
+    <string name="activity_type3">Turismo</string>
+    <string name="activity_type4">Centros comerciales</string>
+
+    //MUSEO
+    <string name="museum_activity1">Museo del Prado</string>
+    <string name="ubi_prado">Paseo del Prado, s/n</string>
+    <string name="desc_prado">El Museo Nacional del Prado invita a contemplar los cuadros como obra total, más allá de la pintura.</string>
+    <string name="museum_activity2">Museo Reina Sofía</string>
+    <string name="ubi_sofia">Calle Santa Isabel, 52</string>
+    <string name="desc_sofia">El Museo Reina Sofía cuenta con cuatro sedes diferentes: la Sede Principal,
+        formada por el Edificio Sabatini y el Edificio Nouvel, y las sedes del Parque del Retiro,
+        Palacio de Velázquez y Palacio de Cristal.
+        Puedes llegar de las sedes del Parque del Retiro a la Sede Principal en 23 minutos a pie.</string>
+    <string name="museum_activity3">Museo de Historia de Madrid</string>
+    <string name="ubi_historia">Calle Fuencarral, 78</string>
+    <string name="desc_historia">Fue creado como museo municipal en 1929 y rebautizado como Museo de Historia de Madrid en 2007.
+        En el año 2014 se hace una profunda remodelación y reabre sus puertas con un montaje moderno y una puesta al día de sus colecciones.</string>
+    <string name="museum_activity4">Museo del Romanticismo</string>
+    <string name="ubi_romanticismo">Calle San Mateo, 13</string>
+    <string name="desc_romanticismo">Este Museo es un palacete que recrea la vida cotidiana y las costumbres de la alta burguesía durante el Romanticismo.
+        En su visita, el público podrá conocer cómo era sociedad durante este periodo histórico,
+        así como quiénes fueron los principales protagonistas de este movimiento cultural en España.</string>
+
+    //TEATRO
+    <string name="theatre_activity1">Teatro Luchana</string>
+    <string name="ubi_luchana">Calle Luchana, 38</string>
+    <string name="desc_luchana">En el antiguo espacio de los Cines Luchana nace este proyecto teatral que quiere dar cobijo a todo tipo de públicos.
+        Rehabilitado para la ocasión, con una transformación que mantiene, sin embargo, el espíritu del antiguo cine conservando en su decoración.</string>
+    <string name="theatre_activity2">Teatro Lara</string>
+    <string name="ubi_lara">Calle Corredera Baja de San Pablo, 15</string>
+    <string name="desc_lara">El teatro construido por don Cándido Lara, de quien toma el nombre, se inauguró el 3 de septiembre de 1880.
+        Desde entonces está abierto, salvo cortas etapas de cierres provisionales.
+        Se inauguró reinando Alfonso XII, sin que existieran la luz eléctrica, el Metro o la Gran Vía.</string>
+    <string name="theatre_activity3">Teatro Alcázar</string>
+    <string name="ubi_alcazar">Calle Alcalá, 20</string>
+    <string name="desc_alcazar">El actual Teatro Alcázar (antiguo Teatro Cofidis Alcázar) es uno de los enclaves más populares y representativos
+        de la cultura y del ocio que podemos encontrar en pleno centro de Madrid, en la calle de Alcalá.</string>
+    <string name="theatre_activity4">Teatro Marquina</string>
+    <string name="ubi_marquina">Calle Prim ,11</string>
+    <string name="desc_marquina">El teatro Marquina, con capacidad para 500 espectadores, está situado en el barrio de Justicia en el distrito centro en Madrid, España.
+        Se levanta sobre un solar que el dramaturgo Eduardo Marquina legó al Montepío de Autores, de ahí que se diera su nombre al mismo.</string>
+
+    //TURISMO
+    <string name="turism_activity1">Visita al Palacio Real</string>
+    <string name="ubi_palacio">Calle de Bailén, s/n</string>
+    <string name="desc_palacio">En esta visita guiada por el Palacio Real de Madrid descubriremos los secretos de uno de los palacios más grandes de Europa.
+        Conoceremos la historia de la realeza española mientras recorremos sus estancias, salones y jardines.</string>
+    <string name="turism_activity2">Visita al Parque del Retiro</string>
+    <string name="ubi_retiro">Retiro</string>
+    <string name="desc_retiro">El pulmón verde de Madrid, de gran variedad botánica, alberga numerosas anécdotas.
+        Las descubriréis en este tour por uno de los parques más famosos de España. </string>
+    <string name="turism_activity3">Mercado de San Miguel</string>
+    <string name="ubi_miguel">Plaza de San Miguel, s/n</string>
+    <string name="desc_miguel">Situado en el centro más castizo de Madrid, junto a la Plaza Mayor, se autodefine como
+        “el templo de los productos frescos donde el protagonista no es el chef, sino el género”.</string>
+    <string name="turism_activity4">Parque Warner</string>
+    <string name="ubi_warner">A-4, salida 22, San Martín de la Vega</string>
+    <string name="desc_warner">Ambientado en los estudios de Warner Bros y con varias zonas temáticas tanto para niños como adultos,
+        este parque de atracciones cuenta con todos los detalles para pasar un día inolvidable lleno de emociones.</string>
+
+    //CENTROS COMERCIALES
+    <string name="shopping_activity1">Centro Comercial La Vaguada</string>
+    <string name="ubi_vaguada">Avenida de Monforte de Lemos, 36</string>
+    <string name="desc_vaguada">La Vaguada es un centro comercial que se encuentra en el madrileño barrio del Pilar.
+        Fue el primer centro comercial que se abrió en Madrid.</string>
+    <string name="shopping_activity2">Centro Comercial Principe Pío</string>
+    <string name="ubi_pio">Plaza de la Florida, 2</string>
+    <string name="desc_pio">Centro comercial elegante con techo acristalado, una amplia variedad de tiendas, restaurantes y cine.</string>
+    <string name="shopping_activity3">Centro Comercial Islazul</string>
+    <string name="ubi_islazul">Calle de la Calderilla, 1</string>
+    <string name="desc_islazul">Complejo vanguardista con plaza central y plantas tropicales que reúne cine, tiendas, bares y restaurantes.</string>
+    <string name="shopping_activity4">Centro Comercial Montecarmelo</string>
+    <string name="ubi_montecarmelo">Calle del Monasterio de Arlanza, 20</string>
+    <string name="desc_montecarmelo">Pequeño centro comercial de ambiente animado, con supermercado, servicios diarios y restaurantes informales.</string>
+
+
+</resources>
